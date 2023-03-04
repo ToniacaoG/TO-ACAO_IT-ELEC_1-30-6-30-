@@ -17,4 +17,8 @@
         <item>Android 17</item>
         <item>Android 18</item>
     </string-array>
+
+    <string-array name="array_technology">
+        <item>java</item>
+    </string-array>
 </resources>

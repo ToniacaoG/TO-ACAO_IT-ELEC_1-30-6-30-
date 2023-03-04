@@ -18,7 +18,7 @@ public class constraint extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(constraint.this, ListActivity.class);
+                Intent intent = new Intent(constraint.this, SpinnerAct.class);
                 startActivity(intent);
             }
         });
