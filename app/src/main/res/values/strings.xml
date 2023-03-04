@@ -4,4 +4,17 @@
     <string name="Message">Message</string>
     <string name="Subject">Subject</string>
     <string name="Send">Send</string>
+
+    <string-array name="spinner_array">
+        <item>Select a robot..</item>
+        <item>R2-D2</item>
+        <item>BB-8</item>
+        <item>C-3PD</item>
+        <item>Dalek</item>
+        <item>Robbie</item>
+        <item>Gart</item>
+        <item>Optimus Prime</item>
+        <item>Android 17</item>
+        <item>Android 18</item>
+    </string-array>
 </resources>
