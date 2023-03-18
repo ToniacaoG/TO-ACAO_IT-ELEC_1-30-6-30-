@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity  implements PizzaMenuFragment.OnItemSelectedListener {
+public class MainActivity3 extends AppCompatActivity  implements PizzaMenuFragment.OnItemSelectedListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
